@@ -1,0 +1,27 @@
+class Solution {
+public:
+    vector<int> rearrangeArray(vector<int>& nums) {
+        vector<int> pos, neg, res;
+        
+        // Separate positives and negatives
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] < 0)
+                neg.push_back(nums[i]);
+            else
+                pos.push_back(nums[i]);
+        }
+        
+        // Interleave them
+        int i = 0, j = 0;
+        while(i < pos.size() && j < neg.size()){
+            res.push_back(pos[i++]);
+            res.push_back(neg[j++]);
+        }
+        
+        return res;
+    }
+};
+
+This is brute force method still solving and will post the optimized method 
+This method is a basic approach where we are creating 3 vectors one for the elements that are positive and one for the elements that are negative now we are storing the elements one
+  by one in the resultant vector and returning it
