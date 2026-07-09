@@ -1,0 +1,22 @@
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int count=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]!=0){
+                nums[count++]=nums[i];
+            }
+        }
+        while(count<nums.size()){
+            nums[count++]=0;
+        }
+    }
+};
+
+Idea:
+
+Keep a pointer count that stores the index where the next non-zero element should be placed.
+Traverse the array once.
+Whenever you encounter a non-zero element, copy it to nums[count] and increment count.
+After all non-zero elements have been placed at the front, fill the remaining positions with 0
+
