@@ -1,0 +1,53 @@
+
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        int target=0;
+     sort(nums.begin(),nums.end());
+     vector<vector<int>> ans;
+     for(int i=0;i<nums.size();i++){
+        if(i>0 && nums[i]==nums[i-1]){
+            continue;
+        }
+        int l=i+1, r=nums.size()-1;
+        int required=target-nums[i];
+        while(l<r){
+            if(nums[l]+nums[r]==required){
+                vector<int>temp={nums[i],nums[l],nums[r]};
+                ans.push_back(temp);
+                l++;
+                r--;
+                while(l<r && nums[l]==nums[l-1]){
+                    l++;
+                }
+                while(l<r && nums[r]==nums[r+1]){
+                    r--;
+                }
+            }else if(nums[l]+nums[r]>required){
+                r--;
+            }else if(nums[l]+nums[r]<required){
+                l++;
+            }
+        }
+     }
+     return ans;   
+    }
+};
+Idea
+Sort the array.
+Fix one element nums[i].
+Find the remaining two numbers whose sum is -nums[i] using two pointers
+
+Why skip duplicates?
+
+Without skipping duplicates, the same triplet can be generated multiple times.
+
+Skip:
+
+Duplicate i
+Duplicate left
+Duplicate right
+Time Complexity
+Sorting → O(n log n)
+Outer loop → O(n)
+Two pointers → O(n)
