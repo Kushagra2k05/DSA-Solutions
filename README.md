@@ -31,3 +31,15 @@ public coding platforms.
 ## Usage
 Feel free to browse, but this repository is primarily
 maintained as a personal problem-solving journal.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
