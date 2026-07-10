@@ -168,6 +168,7 @@
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
