@@ -1,0 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int t;
+    cin >> t;
+ 
+    while (t--) {
+        vector<int> a(7);
+        int sum = 0;
+ 
+        for (int i = 0; i < a.size(); i++) {
+            cin >> a[i];
+            sum += a[i];
+        }
+ 
+        int maxi = *max_element(a.begin(), a.end());
+ 
+        cout << 2 * maxi - sum << "
+";
+    }
+ 
+    return 0;
+}
