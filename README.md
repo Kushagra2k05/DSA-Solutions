@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
+| [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
