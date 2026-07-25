@@ -168,6 +168,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -178,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
