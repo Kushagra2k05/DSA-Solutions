@@ -1,21 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& arr) {
-          int n = arr.size();
+        if (arr.empty()) return {};
 
+    // 1. Sort by start time
     sort(arr.begin(), arr.end());
+    
     vector<vector<int>> res;
-    for (int i = 0; i < n; i++) {
-        int start = arr[i][0];
-        int end = arr[i][1];
-        if (!res.empty() && res.back()[1] >= end)
-            continue;
-        for (int j = i + 1; j < n; j++) {
-            if (arr[j][0] <= end)
-                end = max(end, arr[j][1]);
+
+    // 2. Loop exactly once
+    for (int i = 0; i < arr.size(); i++) {
+        
+        // If 'res' is empty OR the current interval does NOT overlap with the last one in 'res'
+        if (res.empty() || arr[i][0] > res.back()[1]) {
+            res.push_back(arr[i]); // Toss it in the box
+        } 
+        else {
+            // They OVERLAP! Stretch the end of the last interval in the box
+            res.back()[1] = max(res.back()[1], arr[i][1]);
         }
-        res.push_back({start, end});
     }
+    
     return res;
     }
 };
