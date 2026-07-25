@@ -170,6 +170,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
@@ -193,4 +194,9 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
