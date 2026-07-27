@@ -176,6 +176,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0056-merge-intervals](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0088-merge-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
