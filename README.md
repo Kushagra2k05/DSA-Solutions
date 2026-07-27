@@ -209,4 +209,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
