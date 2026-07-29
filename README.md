@@ -210,6 +210,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -223,6 +224,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
