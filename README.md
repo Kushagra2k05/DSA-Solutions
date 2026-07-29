@@ -174,6 +174,7 @@
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -203,6 +204,7 @@
 | [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -215,4 +217,8 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0520-detect-capital) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
