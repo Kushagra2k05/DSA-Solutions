@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0088-merge-sorted-array) |
@@ -216,6 +217,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0704-binary-search) |
