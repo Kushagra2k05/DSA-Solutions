@@ -176,6 +176,7 @@
 | [0137-single-number-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -184,6 +185,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
@@ -192,6 +194,7 @@
 | [0056-merge-intervals](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -244,4 +247,12 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
