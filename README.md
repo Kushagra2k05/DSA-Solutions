@@ -188,4 +188,20 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
