@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -204,4 +205,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
