@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 13 |
+| 36 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -34,6 +34,7 @@
 |---|---------|------------|----------|
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### binary search
 
