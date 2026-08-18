@@ -221,4 +221,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
