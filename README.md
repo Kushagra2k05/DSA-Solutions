@@ -229,4 +229,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
