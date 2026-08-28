@@ -182,6 +182,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -232,9 +233,14 @@
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
