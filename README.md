@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -243,4 +246,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
