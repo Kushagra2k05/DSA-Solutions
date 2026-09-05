@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 13 |
+| 40 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -38,6 +38,7 @@
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### binary search
 
