@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 13 |
+| 43 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (9)
+- [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -41,6 +41,7 @@
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 | 2259E | [Treasure Map Destruction (Constructive Version)](https://codeforces.com/contest/2259/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/E%20-%20Treasure%20Map%20Destruction%20(Constructive%20Version)/solution.cpp) |
+| 2259F | [Binary Bubble Sort Inversions](https://codeforces.com/contest/2259/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/F%20-%20Binary%20Bubble%20Sort%20Inversions/solution.cpp) |
 
 ### binary search
 
