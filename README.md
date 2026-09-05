@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 13 |
+| 42 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -40,6 +40,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
+| 2259E | [Treasure Map Destruction (Constructive Version)](https://codeforces.com/contest/2259/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kushagra2k05/DSA-Solutions/blob/HEAD/2259/E%20-%20Treasure%20Map%20Destruction%20(Constructive%20Version)/solution.cpp) |
 
 ### binary search
 
