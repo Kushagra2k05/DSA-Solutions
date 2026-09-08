@@ -189,4 +189,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
+## Array
+|  |
+| ------- |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+## Greedy
+|  |
+| ------- |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 <!---LeetCode Topics End-->
