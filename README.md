@@ -184,6 +184,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -192,9 +193,14 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Greedy
 |  |
 | ------- |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
