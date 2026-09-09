@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -203,4 +204,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
