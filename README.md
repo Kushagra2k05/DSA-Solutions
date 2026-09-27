@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Greedy
 |  |
@@ -240,4 +241,16 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
