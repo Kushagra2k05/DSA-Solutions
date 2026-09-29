@@ -190,6 +190,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
