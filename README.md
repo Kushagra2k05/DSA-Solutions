@@ -257,4 +257,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
