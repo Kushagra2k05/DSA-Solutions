@@ -192,6 +192,7 @@
 | [0567-permutation-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Trie
 |  |
@@ -266,6 +268,7 @@
 | [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -274,4 +277,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
