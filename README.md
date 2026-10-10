@@ -187,6 +187,7 @@
 | [0013-roman-to-integer](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0796-rotate-string) |
@@ -205,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Trie
 |  |
@@ -262,9 +264,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
+| [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Kushagra2k05/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
